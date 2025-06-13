@@ -1,4 +1,4 @@
-# E---Commerce-Project---Power-BI
+# Amazon--Sales--Analysis---Power-BI
 This Power BI project focuses on identifying and implementing innovative strategies to improve customer satisfaction and reward loyal customers, thereby maintaining and enhancing Amazon's strong market performance. As a Business Analyst at Amazon, you are part of a strategic initiative aimed at exploring ways to increase the value offered to customers beyond the current levels. While offerings such as competitive pricing, extensive product variety, and Prime membership perks already provide considerable value, this project dives deeper into customer behavior and preferences using data analytics.
 
 Objective:
